@@ -1,0 +1,5 @@
+![image](https://github.com/pretendwang/Django-dianshang-proje/assets/160380346/9b7aee06-908c-4056-b93c-599bc145f8b8)
+![image](https://github.com/pretendwang/Django-dianshang-proje/assets/160380346/ec6bd87e-0198-40d4-be8f-9d456252f19c)
+![image](https://github.com/pretendwang/Django-dianshang-proje/assets/160380346/6968d570-7363-4db4-8e4c-02a59203b48e)
+![image](https://github.com/pretendwang/Django-dianshang-proje/assets/160380346/a5069aa8-e708-4938-94a4-792cd1037913)
+![image](https://github.com/pretendwang/Django-dianshang-proje/assets/160380346/20e38611-ac18-4c02-8493-654015ddf6bd)
